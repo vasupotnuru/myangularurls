@@ -1,3 +1,4 @@
 # myangularurls
+For file required validation with directive sccript
 
-hi this is vasu for testing access in all systems
+http://plnkr.co/edit/3TZCMUb9XXPGP5ifHf6x?p=preview
